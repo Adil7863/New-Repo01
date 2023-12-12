@@ -1,0 +1,10 @@
+•	Login into EC2 instance.
+•	Create one directory and go inside it.
+•	gitinit.
+•	git add .
+•	git commit -m “first commit from mumbai”
+•	git status
+•	git log
+•	git show (commit id)
+•	git remote add origin master  (central git url)
+•	git push -u origin master (enter user name and password (GIT))
